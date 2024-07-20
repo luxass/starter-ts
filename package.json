@@ -1,5 +1,5 @@
 {
-  "name": "pkg-placeholder",
+  "name": "library-name",
   "version": "0.0.0",
   "description": "A TypeScript starter template for libraries",
   "type": "module",
@@ -10,12 +10,12 @@
   },
   "packageManager": "pnpm@9.5.0",
   "license": "MIT",
-  "homepage": "https://github.com/luxass/pkg-placeholder#readme",
+  "homepage": "https://github.com/luxass/library-name#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/luxass/pkg-placeholder.git"
+    "url": "git+https://github.com/luxass/library-name.git"
   },
-  "bugs": "https://github.com/luxass/pkg-placeholder/issues",
+  "bugs": "https://github.com/luxass/library-name/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
